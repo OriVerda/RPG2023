@@ -38,7 +38,7 @@ namespace RPG2023
             }
         }
 
-        static void Section00() //Test
+        static void Section00()
         {
             Console.WriteLine("Once upon a time, in a far-off kingdom, there was a brave knight named Sir {0}.", characterName);
             Console.WriteLine("One day, the lord of the kingdom called upon Sir {0} for a dangerous mission - to slay a dragon that had been terrorizing nearby villages.", characterName);
